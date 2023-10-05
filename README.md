@@ -1,11 +1,8 @@
-## Olá! meu nome é Cristian, e seja bem-vindo ao meu perfil 👋🏻
-
-Desenvolvedor web full-stack com vasta experiência em desenvolvimento de aplicações web escaláveis e responsivas. Sou apaixonado por criar soluções tecnológicas que resolvem problemas reais e que agregam valor aos usuários.
+## BEM-VINDO AO MEU PERFIL DO GITHUB 👋🏼!
 
 
 &nbsp;
 &nbsp;
-
 
 
 <div align="center">  
@@ -14,8 +11,18 @@ Desenvolvedor web full-stack com vasta experiência em desenvolvimento de aplica
 </div>
 
 
+## About me 🛈:
 
-## Skills:
+Desenvolvedor web full-stack com vasta experiência em desenvolvimento de aplicações web escaláveis e responsivas. Sou apaixonado por criar soluções tecnológicas que resolvem problemas reais e que agregam valor aos usuários. Afinal, a programação é, acima de tudo, uma forma de melhorar o estilo de vida das pessoas.
+
+Sempre disposto a evoluir, dedico horas do meu dia aos estudos de programação e experiência do usuário. Conhecimento nunca é demais!
+
+
+&nbsp;
+&nbsp;
+
+
+## Skills ⚙️:
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117)&nbsp;
