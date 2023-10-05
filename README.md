@@ -6,7 +6,12 @@
 &nbsp;
 &nbsp;
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devcristian&show_icons=true&count_private=true&hide_border=true&title_color=46cee0&icon_color=fecf6c&text_color=c8c7c1&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cristian&layout=compact&hide_border=true&title_color=46cee0&text_color=c8c7c1&bg_color=0d1117" />
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dev-cristian&show_icons=true&count_private=true&hide_border=true&title_color=46cee0&icon_color=fecf6c&text_color=c8c7c1&bg_color=0d1117" alt="Cristian Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cristian&layout=compact&hide_border=true&title_color=46cee0&text_color=c8c7c1&bg_color=0d1117" />
+</div>
 
 
 
