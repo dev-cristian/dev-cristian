@@ -1,5 +1,9 @@
 ### Olá! meu nome é Cristian, e seja bem-vindo ao meu perfil. 👋
 
+Desenvolvedor web full-stack com vasta experiência em desenvolvimento de aplicações web escaláveis e responsivas.Sou apaixonado por criar soluções tecnológicas que resolvem problemas reais e que agregam valor
+aos usuários.
+
+## Contato:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.linkedin.com/in/christian-santos-47b097253/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-santos-47b097253/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/christian-santos-47b097253/)
