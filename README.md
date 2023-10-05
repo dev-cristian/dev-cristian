@@ -1,7 +1,6 @@
 ## Olá! meu nome é Cristian, e seja bem-vindo ao meu perfil 👋🏻
 
-Desenvolvedor web full-stack com vasta experiência em desenvolvimento de aplicações web escaláveis e responsivas. Sou apaixonado por criar soluções tecnológicas que resolvem     
-problemas reais e que agregam valor aos usuários.
+Desenvolvedor web full-stack com vasta experiência em desenvolvimento de aplicações web escaláveis e responsivas. Sou apaixonado por criar soluções tecnológicas que resolvem problemas reais e que agregam valor aos usuários.
 
 
 &nbsp;
