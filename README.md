@@ -38,7 +38,9 @@ Desenvolvedor web full-stack com vasta experiência em desenvolvimento de aplica
 &nbsp;
 
 
-### Contact-me:
+<div align="center">
+  <h2>Contact-me:</h1>
+</div>
 
 <div align="center">
 <a href="www.instagram.com/chris.saant" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
