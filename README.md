@@ -1,10 +1,14 @@
-<div align="center">
-  <h1>Olá! meu nome é Cristian, e seja bem-vindo ao meu perfil</h1>
-  <p>Desenvolvedor web full-stack com vasta experiência em desenvolvimento de aplicações web escaláveis e responsivas. Sou apaixonado por criar soluções tecnológicas que resolvem problemas   reais e que agregam valor aos usuários.</p>
-</div>
+## Olá! meu nome é Cristian, e seja bem-vindo ao meu perfil 👋🏻
+
+<p>Desenvolvedor web full-stack com vasta experiência em desenvolvimento de aplicações web escaláveis e responsivas. Sou apaixonado por criar soluções tecnológicas que resolvem problemas reais e que agregam valor aos usuários.</p>
+
 
 &nbsp;
 &nbsp;
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devcristian&show_icons=true&count_private=true&hide_border=true&title_color=46cee0&icon_color=fecf6c&text_color=c8c7c1&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cristian&layout=compact&hide_border=true&title_color=46cee0&text_color=c8c7c1&bg_color=0d1117" />
+
+
 
 ## Skills:
 
