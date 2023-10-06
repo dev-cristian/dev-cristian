@@ -1,11 +1,11 @@
-## BEM-VINDO AO MEU PERFIL DO GITHUB 👋🏼!
+  ## Welcome to my GitHub profile 👋🏼!
 
 
 &nbsp;
 &nbsp;
 
 
-<div align="center">  
+<div class="statics"align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dev-cristian&show_icons=true&count_private=true&hide_border=true&title_color=46cee0&icon_color=fecf6c&text_color=c8c7c1&bg_color=0d1117" alt="Cristian Santos github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cristian&layout=compact&hide_border=true&title_color=46cee0&text_color=c8c7c1&bg_color=0d1117" />
 </div>
@@ -13,8 +13,10 @@
 
 ## About me 🛈:
 
-Desenvolvedor web full-stack com vasta experiência em desenvolvimento de aplicações web escaláveis e responsivas. Sou apaixonado por criar soluções tecnológicas que resolvem problemas reais e que agregam valor aos usuários. Afinal, a programação é, acima de tudo, uma forma de melhorar o estilo de vida das pessoas.
+[🇺🇸] Full-stack web developer with extensive experience in developing scalable and responsive web applications. I am passionate about creating technological solutions that solve real problems and add value to users. After all, programming is, above all, a way to improve people's lifestyles.
+Always willing to evolve, I dedicate hours of my day to studying programming and user experience. Knowledge is never too much!
 
+[🇧🇷]Desenvolvedor web full-stack com vasta experiência em desenvolvimento de aplicações web escaláveis e responsivas. Sou apaixonado por criar soluções tecnológicas que resolvem problemas reais e que agregam valor aos usuários. Afinal, a programação é, acima de tudo, uma forma de melhorar o estilo de vida das pessoas.
 Sempre disposto a evoluir, dedico horas do meu dia aos estudos de programação e experiência do usuário. Conhecimento nunca é demais!
 
 
@@ -60,11 +62,10 @@ Sempre disposto a evoluir, dedico horas do meu dia aos estudos de programação 
 
 
 
-<div align="center">
+<div class="contacts" align="center">
   <h2>Contact-me:</h1>
-</div>
 
-<div align="center">
+<div class="contacts__badges" align="center">
 <a href="www.instagram.com/chris.saant" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/cristian-santos-47b097253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="cris.sant" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
