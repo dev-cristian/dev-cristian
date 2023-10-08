@@ -13,11 +13,8 @@
 
 ## About me 🛈:
 
-[🇺🇸] Full-stack web developer with extensive experience in developing scalable and responsive web applications. I am passionate about creating technological solutions that solve real problems and add value to users. After all, programming is, above all, a way to improve people's lifestyles.
+Full-stack web developer with extensive experience in developing scalable and responsive web applications. I am passionate about creating technological solutions that solve real problems and add value to users. After all, programming is, above all, a way to improve people's lifestyles.
 Always willing to evolve, I dedicate hours of my day to studying programming and user experience. Knowledge is never too much!
-
-[🇧🇷]Desenvolvedor web full-stack com vasta experiência em desenvolvimento de aplicações web escaláveis e responsivas. Sou apaixonado por criar soluções tecnológicas que resolvem problemas reais e que agregam valor aos usuários. Afinal, a programação é, acima de tudo, uma forma de melhorar o estilo de vida das pessoas.
-Sempre disposto a evoluir, dedico horas do meu dia aos estudos de programação e experiência do usuário. Conhecimento nunca é demais!
 
 
 &nbsp;
@@ -59,7 +56,6 @@ Sempre disposto a evoluir, dedico horas do meu dia aos estudos de programação 
 
 &nbsp;
 &nbsp;
-
 
 
 <div class="contacts" align="center">
