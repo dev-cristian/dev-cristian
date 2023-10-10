@@ -34,7 +34,7 @@ Always willing to evolve, I dedicate hours of my day to studying programming and
 ### Data Base:
 
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MariaDB-0D1117?style=for-the-badge&logo=mariadb&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
