@@ -11,7 +11,7 @@
 </div>
 
 
-## About me 🛈:
+## 🛈 About me:
 
 Full-stack web developer with extensive experience in developing scalable and responsive web applications. I am passionate about creating technological solutions that solve real problems and add value to users. After all, programming is, above all, a way to improve people's lifestyles.
 Always willing to evolve, I dedicate hours of my day to studying programming and user experience. Knowledge is never too much!
@@ -21,7 +21,7 @@ Always willing to evolve, I dedicate hours of my day to studying programming and
 &nbsp;
 
 
-## Skills ⚙️:
+## ⚙️ Skills:
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117)&nbsp;
