@@ -1,9 +1,7 @@
-  ## Welcome to my GitHub profile! 👋🏼
-
+## Welcome to my GitHub profile! 👋🏼
 
 &nbsp;
 &nbsp;
-
 
 <div class="statics"align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dev-cristian&show_icons=true&count_private=true&hide_border=true&title_color=46cee0&icon_color=fecf6c&text_color=c8c7c1&bg_color=0d1117" alt="Cristian Santos github stats" /> 
@@ -16,14 +14,12 @@
 Full-stack web developer with extensive experience in developing scalable and responsive web applications. I am passionate about creating technological solutions that solve real problems and add value to users. After all, programming is, above all, a way to improve people's lifestyles.
 Always willing to evolve, I dedicate hours of my day to studying programming and user experience. Knowledge is never too much!
 
-
 &nbsp;
 &nbsp;
-
 
 ## ⚙️ Skills:
 
-### Main skills:
+### Main Skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -32,7 +28,6 @@ Always willing to evolve, I dedicate hours of my day to studying programming and
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Data Base:
-
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
@@ -49,22 +44,19 @@ Always willing to evolve, I dedicate hours of my day to studying programming and
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117)&nbsp;
 
-  
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 
-
 &nbsp;
 &nbsp;
-
 
 <div class="contacts" align="center">
   <h2>Contact-me:</h1>
 </div>
 
 <div class="contacts__badges" align="center">
-<a href="https://www.linkedin.com/in/devcristian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"</a>
-<a href="mailto:cristianrb.santos@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/devcristian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"</a>
+  <a href="mailto:cristianrb.santos@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a>
 </div>
