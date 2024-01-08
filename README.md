@@ -8,7 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cristian&layout=compact&hide_border=true&title_color=46cee0&text_color=c8c7c1&bg_color=0d1117" />
 </div>
 
-
 ## ✨ About me:
 
 Full-stack web developer with extensive experience in developing scalable and responsive web applications. I am passionate about creating technological solutions that solve real problems and add value to users. After all, programming is, above all, a way to improve people's lifestyles.
@@ -52,12 +51,12 @@ Always willing to evolve, I dedicate hours of my day to studying programming and
 &nbsp;
 
 <div class="contacts" align="center">
-    <h2>Contact-me:</h1>
+  <h2>Contact-me:</h2>
 </div>
 
-<div class="contacts__badges" align="center">
-  </a>
-  <a href="https://www.linkedin.com/in/devcristian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  <a href="https://wa.me/5581988968814" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
-  <a href="mailto:cristianrbsantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<div class="contacs__badges" align="center">
+<a href="https://www.linkedin.com/in/devcristian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://wa.me/5581988968814" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+<a href="mailto:cristianrbsantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
+
