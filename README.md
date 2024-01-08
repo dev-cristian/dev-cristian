@@ -52,11 +52,11 @@ Always willing to evolve, I dedicate hours of my day to studying programming and
 &nbsp;
 
 <div class="contacts" align="center">
-  <h2>Contact-me:</h1>
+    <h2>Contact-me:</h1>
 </div>
 
 <div class="contacts__badges" align="center">
+  <a href="https://www.linkedin.com/in/devcristian/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
   <a href="https://www.linkedin.com/in/devcristian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  <a href="mailto:cristianrb.santos@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"</a>
+  <a href="mailto:cristianrbsantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
